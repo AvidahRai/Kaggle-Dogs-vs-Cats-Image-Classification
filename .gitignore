@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.jpg
+*.zip
+datasets/dogs-vs-cats/sampleSubmission.csv
+*.h5
